@@ -19,3 +19,6 @@ Fitur:
 
 ## Tutorial
 Halaman utama sekarang memiliki tutorial lengkap: cara memilih bidak, memilih tujuan, pergantian giliran, cara menang, serta panduan gerakan setiap bidak dan tips strategi dasar.
+
+## Update gameplay
+Tombol Mulai Permainan aktif dan langsung membawa pemain ke papan. Undo sekarang benar-benar mengembalikan satu langkah.
